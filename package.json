@@ -1,0 +1,30 @@
+{
+  "name": "next-note",
+  "version": "0.1.0",
+  "description": "Next.js note app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphazilla/next-note.git"
+  },
+  "keywords": [
+    "note-app"
+  ],
+  "author": "Andrei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphazilla/next-note/issues"
+  },
+  "homepage": "https://github.com/alphazilla/next-note#readme",
+  "dependencies": {
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
